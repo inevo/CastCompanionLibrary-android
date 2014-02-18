@@ -28,3 +28,6 @@ proguard-project.txt
 .classpath
 .settings/
 # project.properties
+
+# IDEA files
+*.iml
